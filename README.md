@@ -35,6 +35,8 @@ Responder las siguientes preguntas:
 
 ### Vista 1 — Executive Overview
 
+<img width="1318" height="737" alt="Dashboard de desempeño comercial" src="https://github.com/user-attachments/assets/d3f86d3a-5c59-4d23-8858-83a0b33fadce" />
+
 Diseñada para proporcionar una lectura rápida del desempeño general del negocio mediante:
 
 * KPIs comerciales
@@ -43,6 +45,8 @@ Diseñada para proporcionar una lectura rápida del desempeño general del negoc
 * Indicadores de rentabilidad
 
 ### Vista 2 — Análisis Detallado
+
+<img width="1135" height="742" alt="Dashboard análisis detallado de desepeño comercial" src="https://github.com/user-attachments/assets/32c1e2dc-5f29-4f6f-8dcc-4fef18ed8cc0" />
 
 Orientada a identificar patrones y oportunidades mediante:
 
