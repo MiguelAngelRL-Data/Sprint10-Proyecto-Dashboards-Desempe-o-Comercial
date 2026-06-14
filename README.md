@@ -1,121 +1,115 @@
-# Sprint10-Proyecto-Dashboards-Desempe-o-Comercial
+# Dashboard de Desempeño Comercial | Andes Retail Group
 
-Descripción
-En este proyecto desarrollé un dashboard interactivo para analizar el desempeño comercial de Andes Retail Group, una empresa de retail con operaciones en Perú, Chile y Colombia.
-El objetivo fue transformar datos transaccionales en información visual y accionable que permitiera a la dirección ejecutiva monitorear ventas, rentabilidad, comportamiento de clientes y desempeño por categoría de producto durante los años 2024 y 2025.
-El dashboard fue diseñado siguiendo principios de visualización de datos y storytelling para facilitar la toma de decisiones estratégicas.
+## Descripción del Proyecto
 
-Objetivo del Proyecto
+Andes Retail Group es una empresa de retail con operaciones en Perú, Chile y Colombia que buscaba obtener una visión clara de su desempeño comercial durante 2024 y 2025.
 
-Construir una solución de Business Intelligence que permitiera responder preguntas clave del negocio:
-¿Cómo evolucionaron los ingresos entre 2024 y 2025?
-¿Qué segmentos de clientes generan mayor valor?
-¿Qué categorías impulsan el desempeño comercial?
-¿Existen diferencias relevantes entre países o regiones?
-¿Qué patrones temporales afectan las ventas y la rentabilidad?
-¿Dónde existen oportunidades de mejora comercial?
+Para ello, se desarrolló un dashboard interactivo en Power BI orientado a responder preguntas estratégicas relacionadas con ventas, rentabilidad, segmentos de clientes, categorías de producto y comportamiento temporal del negocio.
 
-Herramientas Utilizadas
+---
 
-Power BI Desktop / Tableau
-Microsoft Excel
-Análisis exploratorio de datos
-Diseño de dashboards
-Storytelling con datos
-Modelo SCQA
+## Objetivo de Negocio
 
-Dataset
+Responder las siguientes preguntas:
 
-Fuente: Dataset académico proporcionado por TripleTen.
-Cada fila representa una transacción de venta realizada en alguno de los mercados donde opera la empresa.
-Variables principales
-Fecha del pedido
-País
-Región
-Segmento de cliente
-Categoría de producto
-Unidades vendidas
-Precio unitario
-Ingresos
-Costos
+* ¿Cómo evolucionaron los ingresos entre 2024 y 2025?
+* ¿Qué segmentos generan mayor rentabilidad?
+* ¿Qué categorías tienen mayor impacto en el negocio?
+* ¿Existen diferencias relevantes entre regiones o países?
+* ¿Qué oportunidades de mejora comercial pueden identificarse?
 
-Metodología
+---
 
-1. Exploración y preparación de datos
-Validación de tipos de datos
-Revisión de consistencia de registros
-Creación de métricas derivadas
-Preparación del modelo para visualización
-2. Diseño del Dashboard
-Antes de construir las visualizaciones se definió:
-Jerarquía visual
-Distribución de información
-KPIs principales
-Flujo de navegación
-Interactividad y filtros
-3. Construcción de Visualizaciones
-Se desarrollaron dos vistas principales:
-Vista General (Executive Overview)
-Orientada a proporcionar una visión rápida del negocio mediante:
-KPIs de desempeño
-Tendencia de ingresos
-Comparación entre mercados
-Indicadores de rentabilidad
-Vista Detalle (Análisis Comercial)
-Orientada a profundizar en los resultados mediante:
-Análisis por categoría
-Análisis por segmento de cliente
-Comparaciones geográficas
-Exploración temporal
-Identificación de oportunidades comerciales
-4. Storytelling y Comunicación
-Los hallazgos fueron estructurados utilizando el modelo SCQA para convertir los resultados analíticos en recomendaciones de negocio claras y accionables.
+## Herramientas Utilizadas
 
-Dashboard
+* Power BI
+* Microsoft Excel
+* Modelado y preparación de datos
+* Diseño de dashboards
+* Storytelling con datos
+* Modelo SCQA
 
-Vista 1: Executive Overview
-Objetivo:
-Proporcionar una lectura rápida del estado general del negocio para directivos y tomadores de decisión.
-Incluye:
-KPIs principales
-Evolución temporal de ingresos
-Comparaciones entre países
-Indicadores de desempeño general
-Vista 2: Análisis Detallado
-Objetivo:
-Permitir la exploración profunda de patrones, diferencias y oportunidades de mejora.
-Incluye:
-Desempeño por categoría
-Desempeño por segmento
-Comparaciones regionales
-Análisis temporal
-Filtros interactivos
+---
 
-Principales Competencias Aplicadas
+## Estructura del Dashboard
 
-Business Intelligence (BI)
-Visualización de datos
-Diseño de dashboards
-Storytelling con datos
-Análisis comercial
-Análisis de rentabilidad
-Exploración interactiva de datos
-Comunicación ejecutiva
+### Vista 1 — Executive Overview
 
-Hallazgos y Recomendaciones
+Diseñada para proporcionar una lectura rápida del desempeño general del negocio mediante:
 
-El dashboard permitió:
-Identificar tendencias de crecimiento y rentabilidad.
-Detectar segmentos de clientes con mayor aporte al negocio.
-Comparar el desempeño entre países y regiones.
-Analizar el impacto de las categorías de producto en los resultados.
-Generar recomendaciones para optimizar la estrategia comercial.
+* KPIs comerciales
+* Evolución temporal de ingresos
+* Comparación entre países
+* Indicadores de rentabilidad
 
-Aprendizajes
+### Vista 2 — Análisis Detallado
 
-Durante este proyecto fortalecí habilidades relacionadas con:
-Diseño de dashboards ejecutivos.
-Transformación de datos en información accionable.
-Comunicación visual de métricas de negocio.
-Construcción de narrativas basadas en datos.
-Presentación de insights para stakeholders no técnicos.
+Orientada a identificar patrones y oportunidades mediante:
+
+* Segmentación de clientes
+* Análisis por categoría
+* Comparaciones regionales
+* Tendencias temporales
+* Filtros interactivos
+
+---
+
+## Principales Hallazgos
+
+### Estacionalidad del negocio
+
+La temporada de verano concentró el mayor nivel de ingresos dentro del período analizado.
+
+**Insight:**
+La demanda presenta un comportamiento estacional que puede aprovecharse para maximizar resultados mediante campañas comerciales oportunamente planificadas.
+
+---
+
+### Segmentos de clientes
+
+Los segmentos Premium y Estándar generaron la mayor parte de la rentabilidad del negocio.
+
+El segmento Económico presentó una contribución significativamente menor.
+
+**Insight:**
+Los clientes de mayor valor representan una oportunidad estratégica para incrementar ingresos y márgenes mediante acciones de fidelización y retención.
+
+---
+
+### Distribución geográfica
+
+Los ingresos mostraron una distribución relativamente equilibrada entre países y regiones.
+
+**Insight:**
+Las principales oportunidades de crecimiento parecen estar más relacionadas con la estrategia comercial y la segmentación de clientes que con la expansión geográfica.
+
+---
+
+## Recomendaciones de Negocio
+
+* Fortalecer estrategias de fidelización para clientes Premium y Estándar.
+* Incrementar acciones comerciales durante los períodos de mayor demanda.
+* Analizar oportunidades de crecimiento dentro del segmento Económico.
+* Continuar monitoreando patrones estacionales para optimizar inventario y campañas.
+
+---
+
+## Habilidades Demostradas
+
+* Business Intelligence
+* Power BI
+* Diseño de Dashboards
+* Storytelling con Datos
+* Análisis Comercial
+* Análisis de Rentabilidad
+* KPI Design
+* Comunicación Ejecutiva
+* Toma de Decisiones Basada en Datos
+
+---
+
+## Conclusión
+
+El dashboard permitió transformar datos transaccionales en información estratégica para la toma de decisiones.
+
+Los resultados sugieren que la estacionalidad y la segmentación de clientes son los principales impulsores del desempeño comercial, ofreciendo oportunidades claras para optimizar la rentabilidad y orientar futuras iniciativas de crecimiento.
